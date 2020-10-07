@@ -1,0 +1,988 @@
+[
+ {
+  "Container": "CON_65D_30_004_1_hd",
+  "Statute ID": "STAT_65D_30_004_1_hd",
+  "Rule": "65D-30.004(1)",
+  "Citation Description": "Operating Procedures."
+ },
+ {
+  "Container": "CON_65D_30_004_1_pt3",
+  "Statute ID": "STAT_65D_30_004_1_pt3",
+  "Rule": "65D-30.004(1)",
+  "Citation Description": "All staff shall have a working knowledge of the operating procedures.",
+  "Response": "RES_65D_30_004_1_pt3",
+  "Comments": "COM_65D_30_004_1_pt3",
+  "Violation": "VIO_65D_30_004_1_pt3",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_hd",
+  "Statute ID": "STAT_65D_30_004_4_hd",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Personnel Policies."
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt1",
+  "Statute ID": "STAT_65D_30_004_4_pt1",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Personnel policies shall clearly address:"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt2",
+  "Statute ID": "STAT_65D_30_004_4_pt2",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Recruitment and selection of prospective employees,",
+  "Response": "RES_65D_30_004_4_pt2",
+  "Comments": "COM_65D_30_004_4_pt2",
+  "Violation": "VIO_65D_30_004_4_pt2",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt3",
+  "Statute ID": "STAT_65D_30_004_4_pt3",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Promotion and termination of staff,",
+  "Response": "RES_65D_30_004_4_pt3",
+  "Comments": "COM_65D_30_004_4_pt3",
+  "Violation": "VIO_65D_30_004_4_pt3",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt4",
+  "Statute ID": "STAT_65D_30_004_4_pt4",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Code of ethical conduct,",
+  "Response": "RES_65D_30_004_4_pt4",
+  "Comments": "COM_65D_30_004_4_pt4",
+  "Violation": "VIO_65D_30_004_4_pt4",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt5",
+  "Statute ID": "STAT_65D_30_004_4_pt5",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Sexual harassment,",
+  "Response": "RES_65D_30_004_4_pt5",
+  "Comments": "COM_65D_30_004_4_pt5",
+  "Violation": "VIO_65D_30_004_4_pt5",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt6",
+  "Statute ID": "STAT_65D_30_004_4_pt6",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Confidentiality of individual records,",
+  "Response": "RES_65D_30_004_4_pt6",
+  "Comments": "COM_65D_30_004_4_pt6",
+  "Violation": "VIO_65D_30_004_4_pt6",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt7",
+  "Statute ID": "STAT_65D_30_004_4_pt7",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Attendance and leave,",
+  "Response": "RES_65D_30_004_4_pt7",
+  "Comments": "COM_65D_30_004_4_pt7",
+  "Violation": "VIO_65D_30_004_4_pt7",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt8",
+  "Statute ID": "STAT_65D_30_004_4_pt8",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Employee grievance,",
+  "Response": "RES_65D_30_004_4_pt8",
+  "Comments": "COM_65D_30_004_4_pt8",
+  "Violation": "VIO_65D_30_004_4_pt8",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt9",
+  "Statute ID": "STAT_65D_30_004_4_pt9",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Non-discrimination,",
+  "Response": "RES_65D_30_004_4_pt9",
+  "Comments": "COM_65D_30_004_4_pt9",
+  "Violation": "VIO_65D_30_004_4_pt9",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt10",
+  "Statute ID": "STAT_65D_30_004_4_pt10",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Abuse reporting procedures, and",
+  "Response": "RES_65D_30_004_4_pt10",
+  "Comments": "COM_65D_30_004_4_pt10",
+  "Violation": "VIO_65D_30_004_4_pt10",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt11",
+  "Statute ID": "STAT_65D_30_004_4_pt11",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "The orientation of staff to the agency’s universal infection control procedures",
+  "Response": "RES_65D_30_004_4_pt11",
+  "Comments": "COM_65D_30_004_4_pt11",
+  "Violation": "VIO_65D_30_004_4_pt11",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt12",
+  "Statute ID": "STAT_65D_30_004_4_pt12",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "The code of ethical conduct shall prohibit employees and volunteers from engaging in sexual activity with individuals receiving services for a minimum of two (2) years after the last professional contact with the individual.",
+  "Response": "RES_65D_30_004_4_pt12",
+  "Comments": "COM_65D_30_004_4_pt12",
+  "Violation": "VIO_65D_30_004_4_pt12",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4_pt13",
+  "Statute ID": "STAT_65D_30_004_4_pt13",
+  "Rule": "65D-30.004(4)",
+  "Citation Description": "Providers shall also have a drug-free workplace policy for employees and prospective employees.",
+  "Response": "RES_65D_30_004_4_pt13",
+  "Comments": "COM_65D_30_004_4_pt13",
+  "Violation": "VIO_65D_30_004_4_pt13",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_hd",
+  "Statute ID": "STAT_65D_30_004_4__a_hd",
+  "Rule": "65D-30.004(4)(a)",
+  "Citation Description": "Personnel Records."
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_",
+  "Statute ID": "STAT_65D_30_004_4__a_",
+  "Rule": "65D-30.004(4)(a)",
+  "Citation Description": "Records on all personnel shall be maintained.",
+  "Response": "RES_65D_30_004_4__a_",
+  "Comments": "COM_65D_30_004_4__a_",
+  "Violation": "VIO_65D_30_004_4__a_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_pt1",
+  "Statute ID": "STAT_65D_30_004_4__a_pt1",
+  "Rule": "65D-30.004(4)(a)",
+  "Citation Description": "Each personnel record shall contain:"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_1_",
+  "Statute ID": "STAT_65D_30_004_4__a_1_",
+  "Rule": "65D-30.004(4)(a)1.",
+  "Citation Description": "The individual’s current job description with minimum qualifications for the position and documentation that the staff meets the minimum qualifications outlined in the job description;",
+  "Response": "RES_65D_30_004_4__a_1_",
+  "Comments": "COM_65D_30_004_4__a_1_",
+  "Violation": "VIO_65D_30_004_4__a_1_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_2_",
+  "Statute ID": "STAT_65D_30_004_4__a_2_",
+  "Rule": "65D-30.004(4)(a)2.",
+  "Citation Description": "The employment application or resume;",
+  "Response": "RES_65D_30_004_4__a_2_",
+  "Comments": "COM_65D_30_004_4__a_2_",
+  "Violation": "VIO_65D_30_004_4__a_2_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_3_",
+  "Statute ID": "STAT_65D_30_004_4__a_3_",
+  "Rule": "65D-30.004(4)(a)3.",
+  "Citation Description": "The employee’s annual performance appraisal,",
+  "Response": "RES_65D_30_004_4__a_3_",
+  "Comments": "COM_65D_30_004_4__a_3_",
+  "Violation": "VIO_65D_30_004_4__a_3_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_4_pt1",
+  "Statute ID": "STAT_65D_30_004_4__a_4_pt1",
+  "Rule": "65D-30.004(4)(a)4.",
+  "Citation Description": "A document signed and dated by the employee indicating that the employee",
+  "Response": "RES_65D_30_004_4__a_4_pt1",
+  "Comments": "COM_65D_30_004_4__a_4_pt1",
+  "Violation": "VIO_65D_30_004_4__a_4_pt1",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_4_pt2",
+  "Statute ID": "STAT_65D_30_004_4__a_4_pt2",
+  "Rule": "65D-30.004(4)(a)4.",
+  "Citation Description": "received new staff orientation",
+  "Response": "RES_65D_30_004_4__a_4_pt2",
+  "Comments": "COM_65D_30_004_4__a_4_pt2",
+  "Violation": "VIO_65D_30_004_4__a_4_pt2",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_4_pt3",
+  "Statute ID": "STAT_65D_30_004_4__a_4_pt3",
+  "Rule": "65D-30.004(4)(a)4.",
+  "Citation Description": "understand the personnel policies and",
+  "Response": "RES_65D_30_004_4__a_4_pt3",
+  "Comments": "COM_65D_30_004_4__a_4_pt3",
+  "Violation": "VIO_65D_30_004_4__a_4_pt3",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_4_pt4",
+  "Statute ID": "STAT_65D_30_004_4__a_4_pt4",
+  "Rule": "65D-30.004(4)(a)4.",
+  "Citation Description": "operating policies and procedures;",
+  "Response": "RES_65D_30_004_4__a_4_pt4",
+  "Comments": "COM_65D_30_004_4__a_4_pt4",
+  "Violation": "VIO_65D_30_004_4__a_4_pt4",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_5_",
+  "Statute ID": "STAT_65D_30_004_4__a_5_",
+  "Rule": "65D-30.004(4)(a)5.",
+  "Citation Description": "A verified or certified copy of degrees, licenses, or certificates of each employee,",
+  "Response": "RES_65D_30_004_4__a_5_",
+  "Comments": "COM_65D_30_004_4__a_5_",
+  "Violation": "VIO_65D_30_004_4__a_5_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_6_",
+  "Statute ID": "STAT_65D_30_004_4__a_6_",
+  "Rule": "65D-30.004(4)(a)6.",
+  "Citation Description": "Documentation of employee screening as required in paragraph (b); and,",
+  "Response": "RES_65D_30_004_4__a_6_",
+  "Comments": "COM_65D_30_004_4__a_6_",
+  "Violation": "VIO_65D_30_004_4__a_6_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_4__a_7_",
+  "Statute ID": "STAT_65D_30_004_4__a_7_",
+  "Rule": "65D-30.004(4)(a)7.",
+  "Citation Description": "Documentation of required staff training (Inmate Substance Abuse Programs operated by the Department of Corrections are exempt from the provisions of this subparagraph).",
+  "Response": "RES_65D_30_004_4__a_7_",
+  "Comments": "COM_65D_30_004_4__a_7_"
+ },
+ {
+  "Container": "CON_65D_30_004_4__c_hd",
+  "Statute ID": "STAT_65D_30_004_4__c_hd",
+  "Rule": "65D-30.004(4)(c)",
+  "Citation Description": "Employment History Checks and Checks of References."
+ },
+ {
+  "Container": "CON_65D_30_004_4__c_",
+  "Statute ID": "STAT_65D_30_004_4__c_",
+  "Rule": "65D-30.004(4)(c)",
+  "Citation Description": "The chief executive officer or designee, such as human resources staff, shall assess employment history checks and checks of references for each employee who has direct contact with children receiving services or adults who are intellectually disabled receiving services.",
+  "Response": "RES_65D_30_004_4__c_",
+  "Comments": "COM_65D_30_004_4__c_",
+  "Violation": "VIO_65D_30_004_4__c_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_004_22_",
+  "Statute ID": "STAT_65D_30_004_22_",
+  "Rule": "65D-30.004(22)",
+  "Citation Description": "Overdose Prevention."
+ },
+ {
+  "Container": "CON_65D_30_004_22__a_pt1",
+  "Statute ID": "STAT_65D_30_004_22__a_pt1",
+  "Rule": "65D-30.004(22)(a)",
+  "Citation Description": "All providers must develop overdose prevention plans.",
+  "Response": "RES_65D_30_004_22__a_pt1",
+  "Comments": "COM_65D_30_004_22__a_pt1",
+  "Violation": "VIO_65D_30_004_22__a_pt1",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_004_22__a_pt2",
+  "Statute ID": "STAT_65D_30_004_22__a_pt2",
+  "Rule": "65D-30.004(22)(a)",
+  "Citation Description": "All staff must have a working knowledge of the overdose prevention plan.",
+  "Response": "RES_65D_30_004_22__a_pt2",
+  "Comments": "COM_65D_30_004_22__a_pt2",
+  "Violation": "VIO_65D_30_004_22__a_pt2",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_004_22__a_pt3",
+  "Statute ID": "STAT_65D_30_004_22__a_pt3",
+  "Rule": "65D-30.004(22)(a)",
+  "Citation Description": "Overdose prevention plans shall include:"
+ },
+ {
+  "Container": "CON_65D_30_004_22__a_1_",
+  "Statute ID": "STAT_65D_30_004_22__a_1_",
+  "Rule": "65D-30.004(22)(a)1.",
+  "Citation Description": "Education about the risks of overdose, including having a lower tolerance for opioids if the individual is participating in an abstinence-based treatment program or is being discharged from a medication-assisted treatment program.",
+  "Response": "RES_65D_30_004_22__a_1_",
+  "Comments": "COM_65D_30_004_22__a_1_",
+  "Violation": "VIO_65D_30_004_22__a_1_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_004_22__a_2_",
+  "Statute ID": "STAT_65D_30_004_22__a_2_",
+  "Rule": "65D-30.004(22)(a)2.",
+  "Citation Description": "Information about Naloxone, the medication that reverses opioid overdose, including how to use Naloxone and where and how to access it.",
+  "Response": "RES_65D_30_004_22__a_2_",
+  "Comments": "COM_65D_30_004_22__a_2_",
+  "Violation": "VIO_65D_30_004_22__a_2_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_004_22__b_",
+  "Statute ID": "STAT_65D_30_004_22__b_",
+  "Rule": "65D-30.004(22)(b)",
+  "Citation Description": "Providers who maintain an emergency overdose prevention kit must develop and implement a plan to train staff in the prescribed use and the availability of the kit for use during all program hours of operation.",
+  "Response": "RES_65D_30_004_22__b_",
+  "Comments": "COM_65D_30_004_22__b_",
+  "Violation": "VIO_65D_30_004_22__b_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_004_22__c_",
+  "Statute ID": "STAT_65D_30_004_22__c_",
+  "Rule": "65D-30.004(22)(c)",
+  "Citation Description": "Overdose prevention information, as described in subparagraphs (22)(a)1. and 2. of this rule, must be shared with individuals upon admission.",
+  "Response": "RES_65D_30_004_22__c_",
+  "Comments": "COM_65D_30_004_22__c_",
+  "Violation": "VIO_65D_30_004_22__c_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_004_22__d_",
+  "Statute ID": "STAT_65D_30_004_22__d_",
+  "Rule": "65D-30.004(22)(d)",
+  "Citation Description": "Providers must offer overdose prevention information, as described in subparagraphs (22)(a)1. and 2. of this rule, to individuals placed on a waitlist to receive treatment services.",
+  "Response": "RES_65D_30_004_22__d_",
+  "Comments": "COM_65D_30_004_22__d_",
+  "Violation": "VIO_65D_30_004_22__d_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0045",
+  "Statute ID": "STAT_65D_30_0045",
+  "Rule": "65D-30.0045",
+  "Citation Description": "Rights of Individuals."
+ },
+ {
+  "Container": "CON_65D_30_0045_1__a_hd",
+  "Statute ID": "STAT_65D_30_0045_1__a_hd",
+  "Rule": "65D-30.0045(1)(a)",
+  "Citation Description": "Provisions."
+ },
+ {
+  "Container": "CON_65D_30_0045_1__a_5_pt1",
+  "Statute ID": "STAT_65D_30_0045_1__a_5_pt1",
+  "Rule": "65D-30.0045(1)(a)5.",
+  "Citation Description": "Education of staff in the importance of the grievance system",
+  "Response": "RES_65D_30_0045_1__a_5_pt1",
+  "Comments": "COM_65D_30_0045_1__a_5_pt1",
+  "Violation": "VIO_65D_30_0045_1__a_5_pt1",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0045_1__a_5_pt2",
+  "Statute ID": "STAT_65D_30_0045_1__a_5_pt2",
+  "Rule": "65D-30.0045(1)(a)5.",
+  "Citation Description": "Education of staff in the importance of individual rights;",
+  "Response": "RES_65D_30_0045_1__a_5_pt2",
+  "Comments": "COM_65D_30_0045_1__a_5_pt2",
+  "Violation": "VIO_65D_30_0045_1__a_5_pt2",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0045_1__a_6_",
+  "Statute ID": "STAT_65D_30_0045_1__a_6_",
+  "Rule": "65D-30.0045(1)(a)6.",
+  "Citation Description": "Specific levels of appeal with corresponding time frames for resolution;",
+  "Response": "RES_65D_30_0045_1__a_6_",
+  "Comments": "COM_65D_30_0045_1__a_6_",
+  "Violation": "VIO_65D_30_0045_1__a_6_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0045_1__a_7_",
+  "Statute ID": "STAT_65D_30_0045_1__a_7_",
+  "Rule": "65D-30.0045(1)(a)7.",
+  "Citation Description": "Timely receipt of a filed grievance;",
+  "Response": "RES_65D_30_0045_1__a_7_",
+  "Comments": "COM_65D_30_0045_1__a_7_",
+  "Violation": "VIO_65D_30_0045_1__a_7_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0045_1__a_8_",
+  "Statute ID": "STAT_65D_30_0045_1__a_8_",
+  "Rule": "65D-30.0045(1)(a)8.",
+  "Citation Description": "The logging and tracking of filed grievances until resolved or concluded by actions of the provider’s governing board;",
+  "Response": "RES_65D_30_0045_1__a_8_",
+  "Comments": "COM_65D_30_0045_1__a_8_",
+  "Violation": "VIO_65D_30_0045_1__a_8_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0045_1__a_9_",
+  "Statute ID": "STAT_65D_30_0045_1__a_9_",
+  "Rule": "65D-30.0045(1)(a)9.",
+  "Citation Description": "Written notification of the decision to the appellant; and",
+  "Response": "RES_65D_30_0045_1__a_9_",
+  "Comments": "COM_65D_30_0045_1__a_9_",
+  "Violation": "VIO_65D_30_0045_1__a_9_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0045_1__a_10_",
+  "Statute ID": "STAT_65D_30_0045_1__a_10_",
+  "Rule": "65D-30.0045(1)(a)10.",
+  "Citation Description": "Analysis of trends to identify opportunities for improvement.",
+  "Response": "RES_65D_30_0045_1__a_10_",
+  "Comments": "COM_65D_30_0045_1__a_10_",
+  "Violation": "VIO_65D_30_0045_1__a_10_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_hd",
+  "Statute ID": "STAT_65D_30_0046_1__c_hd",
+  "Rule": "65D-30.0046(1)(c)",
+  "Citation Description": "New Staff Orientation."
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_",
+  "Statute ID": "STAT_65D_30_0046_1__c_",
+  "Rule": "65D-30.0046(1)(c)",
+  "Citation Description": "Within six (6) months of the hiring date, employees must complete the following trainings:"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_1_",
+  "Statute ID": "STAT_65D_30_0046_1__c_1_",
+  "Rule": "65D-30.0046(1)(c)1.",
+  "Citation Description": "A two (2) hour educational course on HIV/AIDS as required by section 381.0035, F.S.",
+  "Response": "RES_65D_30_0046_1__c_1_",
+  "Comments": "COM_65D_30_0046_1__c_1_",
+  "Violation": "VIO_65D_30_0046_1__c_1_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_2_",
+  "Statute ID": "STAT_65D_30_0046_1__c_2_",
+  "Rule": "65D-30.0046(1)(c)2.",
+  "Citation Description": "Overdose prevention training which must be renewed biennially. The training shall include, at a minimum, information about:",
+  "Response": "RES_65D_30_0046_1__c_2_",
+  "Comments": "COM_65D_30_0046_1__c_2_",
+  "Violation": "VIO_65D_30_0046_1__c_2_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_2_a_",
+  "Statute ID": "STAT_65D_30_0046_1__c_2_a_",
+  "Rule": "65D-30.0046(1)(c)2.a.",
+  "Citation Description": "Risk factors for overdose;",
+  "Response": "RES_65D_30_0046_1__c_2_a_",
+  "Comments": "COM_65D_30_0046_1__c_2_a_",
+  "Violation": "VIO_65D_30_0046_1__c_2_a_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_2_b_",
+  "Statute ID": "STAT_65D_30_0046_1__c_2_b_",
+  "Rule": "65D-30.0046(1)(c)2.b.",
+  "Citation Description": "Overdose recognition and response; and",
+  "Response": "RES_65D_30_0046_1__c_2_b_",
+  "Comments": "COM_65D_30_0046_1__c_2_b_",
+  "Violation": "VIO_65D_30_0046_1__c_2_b_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_2_c_",
+  "Statute ID": "STAT_65D_30_0046_1__c_2_c_",
+  "Rule": "65D-30.0046(1)(c)2.c.",
+  "Citation Description": "Naloxone, the medication that reverses opioid overdose, including how to use Naloxone and the importance of individuals at risk of opioid overdose and their friends and family having access to Naloxone.",
+  "Response": "RES_65D_30_0046_1__c_2_c_",
+  "Comments": "COM_65D_30_0046_1__c_2_c_",
+  "Violation": "VIO_65D_30_0046_1__c_2_c_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_3_pt1",
+  "Statute ID": "STAT_65D_30_0046_1__c_3_pt1",
+  "Rule": "65D-30.0046(1)(c)3.",
+  "Citation Description": "Training in incident reporting procedures and requirements in accordance with subsection 65D-30.004(17), F.A.C., the affirmative duty requirements",
+  "Response": "RES_65D_30_0046_1__c_3_pt1",
+  "Comments": "COM_65D_30_0046_1__c_3_pt1",
+  "Violation": "VIO_65D_30_0046_1__c_3_pt1",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_3_pt2",
+  "Statute ID": "STAT_65D_30_0046_1__c_3_pt2",
+  "Rule": "65D-30.0046(1)(c)3.",
+  "Citation Description": "Training in the affirmative duty requirements and protections of chapter 415, F.S.",
+  "Response": "RES_65D_30_0046_1__c_3_pt2",
+  "Comments": "COM_65D_30_0046_1__c_3_pt2",
+  "Violation": "VIO_65D_30_0046_1__c_3_pt2",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_3_pt3",
+  "Statute ID": "STAT_65D_30_0046_1__c_3_pt3",
+  "Rule": "65D-30.0046(1)(c)3.",
+  "Citation Description": "Training in Title V of the Americans with Disabilities Act.",
+  "Response": "RES_65D_30_0046_1__c_3_pt3",
+  "Comments": "COM_65D_30_0046_1__c_3_pt3",
+  "Violation": "VIO_65D_30_0046_1__c_3_pt3",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_4_pt1",
+  "Statute ID": "STAT_65D_30_0046_1__c_4_pt1",
+  "Rule": "65D-30.0046(1)(c)4.",
+  "Citation Description": "For direct care staff working in component services identified in subsection 65D-30.004(12), F.A.C.,"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_4_pt2",
+  "Statute ID": "STAT_65D_30_0046_1__c_4_pt2",
+  "Rule": "65D-30.0046(1)(c)4.",
+  "Citation Description": "two (2) hours of training in verbal de-escalation techniques",
+  "Response": "RES_65D_30_0046_1__c_4_pt2",
+  "Comments": "COM_65D_30_0046_1__c_4_pt2",
+  "Violation": "VIO_65D_30_0046_1__c_4_pt2",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_4_pt3",
+  "Statute ID": "STAT_65D_30_0046_1__c_4_pt3",
+  "Rule": "65D-30.0046(1)(c)4.",
+  "Citation Description": "two (2) hours annually thereafter.",
+  "Response": "RES_65D_30_0046_1__c_4_pt3",
+  "Comments": "COM_65D_30_0046_1__c_4_pt3",
+  "Violation": "VIO_65D_30_0046_1__c_4_pt3",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_5_",
+  "Statute ID": "STAT_65D_30_0046_1__c_5_",
+  "Rule": "65D-30.0046(1)(c)5.",
+  "Citation Description": "Staff performing nursing support functions must be trained in those services prior to performing that function.",
+  "Response": "RES_65D_30_0046_1__c_5_",
+  "Comments": "COM_65D_30_0046_1__c_5_",
+  "Violation": "VIO_65D_30_0046_1__c_5_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__c_6_",
+  "Statute ID": "STAT_65D_30_0046_1__c_6_",
+  "Rule": "65D-30.0046(1)(c)6.",
+  "Citation Description": "For all direct care staff, training and certification in cardiopulmonary resuscitation (CPR) and first aid. Staff must maintain CPR and first aid certification, and a copy of the valid certificate must be filed in the personnel record.",
+  "Response": "RES_65D_30_0046_1__c_6_",
+  "Comments": "COM_65D_30_0046_1__c_6_",
+  "Violation": "VIO_65D_30_0046_1__c_6_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__d_hd",
+  "Statute ID": "STAT_65D_30_0046_1__d_hd",
+  "Rule": "65D-30.0046(1)(d)",
+  "Citation Description": "General Training Requirements."
+ },
+ {
+  "Container": "CON_65D_30_0046_1__d_pt1",
+  "Statute ID": "STAT_65D_30_0046_1__d_pt1",
+  "Rule": "65D-30.0046(1)(d)",
+  "Citation Description": "All staff and volunteers who provide direct care or prevention services shall participate in a minimum of 10 hours of documented training per year related to their duties and responsibilities.",
+  "Response": "RES_65D_30_0046_1__d_pt1",
+  "Comments": "COM_65D_30_0046_1__d_pt1",
+  "Violation": "VIO_65D_30_0046_1__d_pt1",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__d_pt2",
+  "Statute ID": "STAT_65D_30_0046_1__d_pt2",
+  "Rule": "65D-30.0046(1)(d)",
+  "Citation Description": "This includes training conducted annually in the following areas:"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__d_1_",
+  "Statute ID": "STAT_65D_30_0046_1__d_1_",
+  "Rule": "65D-30.0046(1)(d)1.",
+  "Citation Description": "Prevention and control of infection in inpatient and residential settings;",
+  "Response": "RES_65D_30_0046_1__d_1_",
+  "Comments": "COM_65D_30_0046_1__d_1_",
+  "Violation": "VIO_65D_30_0046_1__d_1_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__d_2_",
+  "Statute ID": "STAT_65D_30_0046_1__d_2_",
+  "Rule": "65D-30.0046(1)(d)2.",
+  "Citation Description": "Fire prevention, life safety, and disaster preparedness;",
+  "Response": "RES_65D_30_0046_1__d_2_",
+  "Comments": "COM_65D_30_0046_1__d_2_",
+  "Violation": "VIO_65D_30_0046_1__d_2_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__d_3_",
+  "Statute ID": "STAT_65D_30_0046_1__d_3_",
+  "Rule": "65D-30.0046(1)(d)3.",
+  "Citation Description": "Safety awareness program;",
+  "Response": "RES_65D_30_0046_1__d_3_",
+  "Comments": "COM_65D_30_0046_1__d_3_",
+  "Violation": "VIO_65D_30_0046_1__d_3_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__d_4_",
+  "Statute ID": "STAT_65D_30_0046_1__d_4_",
+  "Rule": "65D-30.0046(1)(d)4.",
+  "Citation Description": "Rights of individuals served;",
+  "Response": "RES_65D_30_0046_1__d_4_",
+  "Comments": "COM_65D_30_0046_1__d_4_",
+  "Violation": "VIO_65D_30_0046_1__d_4_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__d_5_",
+  "Statute ID": "STAT_65D_30_0046_1__d_5_",
+  "Rule": "65D-30.0046(1)(d)5.",
+  "Citation Description": "Federal law, 42 CFR, Part 2, and sections 397.334(10), 397.501(7), 397.752, F.S. applicable state laws regarding confidentiality.",
+  "Response": "RES_65D_30_0046_1__d_5_",
+  "Comments": "COM_65D_30_0046_1__d_5_",
+  "Violation": "VIO_65D_30_0046_1__d_5_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__e_",
+  "Statute ID": "STAT_65D_30_0046_1__e_",
+  "Rule": "65D-30.0046(1)(e)",
+  "Citation Description": "In instances where an individual has received the requisite training as required in paragraphs (1)(c) and (d) during the year prior to employment by a provider, that individual will have met the training requirements. This provision applies only if the individual is able to produce documentation that the training was completed and that such training was provided by persons who or organizations that are qualified to provide such training",
+  "Response": "RES_65D_30_0046_1__e_",
+  "Comments": "COM_65D_30_0046_1__e_",
+  "Violation": "VIO_65D_30_0046_1__e_",
+  "Class of Violation": "Class II"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__f_hd",
+  "Statute ID": "STAT_65D_30_0046_1__f_hd",
+  "Rule": "65D-30.0046(1)(f)",
+  "Citation Description": "Special Training Requirements for Clinical Staff."
+ },
+ {
+  "Container": "CON_65D_30_0046_1__f_",
+  "Statute ID": "STAT_65D_30_0046_1__f_",
+  "Rule": "65D-30.0046(1)(f)",
+  "Citation Description": "All new clinical staff who work at least 20 hours per week or more must receive 12 hours of competency-based training related to substance use disorder treatment and recovery within the first year.",
+  "Response": "RES_65D_30_0046_1__f_",
+  "Comments": "COM_65D_30_0046_1__f_",
+  "Violation": "VIO_65D_30_0046_1__f_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__g_hd",
+  "Statute ID": "STAT_65D_30_0046_1__g_hd",
+  "Rule": "65D-30.0046(1)(g)",
+  "Citation Description": "Special Training Requirements for Prevention."
+ },
+ {
+  "Container": "CON_65D_30_0046_1__g_",
+  "Statute ID": "STAT_65D_30_0046_1__g_",
+  "Rule": "65D-30.0046(1)(g)",
+  "Citation Description": "In addition to paragraphs (1)(c) and (d), new staff providing prevention services shall receive 12 hours basic training in science-based prevention within the first year of employment.",
+  "Response": "RES_65D_30_0046_1__g_",
+  "Comments": "COM_65D_30_0046_1__g_",
+  "Violation": "VIO_65D_30_0046_1__g_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__h_hd",
+  "Statute ID": "STAT_65D_30_0046_1__h_hd",
+  "Rule": "65D-30.0046(1)(h)",
+  "Citation Description": "Medication Administration Training Requirements."
+ },
+ {
+  "Container": "CON_65D_30_0046_1__h_",
+  "Statute ID": "STAT_65D_30_0046_1__h_",
+  "Rule": "65D-30.0046(1)(h)",
+  "Citation Description": "Training is required before personnel may supervise the self-administration of medication.",
+  "Response": "RES_65D_30_0046_1__h_",
+  "Comments": "COM_65D_30_0046_1__h_",
+  "Violation": "VIO_65D_30_0046_1__h_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__h_pt1",
+  "Statute ID": "STAT_65D_30_0046_1__h_pt1",
+  "Rule": "65D-30.0046(1)(h)",
+  "Citation Description": "At least two and a half (2.5) hours of training is required which may be conducted only by licensed practical nurses, licensed registered nurses or advanced practice registered nurses.",
+  "Response": "RES_65D_30_0046_1__h_pt1",
+  "Comments": "COM_65D_30_0046_1__h_pt1",
+  "Violation": "VIO_65D_30_0046_1__h_pt1",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__h_pt2",
+  "Statute ID": "STAT_65D_30_0046_1__h_pt2",
+  "Rule": "65D-30.0046(1)(h)",
+  "Citation Description": "Personnel responsible for training must certify by signed document or certificate the competency of unlicensed staff to supervise the self-administration of medication.",
+  "Response": "RES_65D_30_0046_1__h_pt2",
+  "Comments": "COM_65D_30_0046_1__h_pt2",
+  "Violation": "VIO_65D_30_0046_1__h_pt2",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__h_pt3",
+  "Statute ID": "STAT_65D_30_0046_1__h_pt3",
+  "Rule": "65D-30.0046(1)(h)",
+  "Citation Description": "Proof of training shall be documented in the personnel file and shall be completed prior to implementing the supervision of self-administration of medication.",
+  "Response": "RES_65D_30_0046_1__h_pt3",
+  "Comments": "COM_65D_30_0046_1__h_pt3",
+  "Violation": "VIO_65D_30_0046_1__h_pt3",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_",
+  "Statute ID": "STAT_65D_30_0046_1__i_",
+  "Rule": "65D-30.0046(1)(i)",
+  "Citation Description": "In addition to the requirements of paragraph (h), self-administration of medication training must include step-by-step procedures, covering, at a minimum, the following subjects:"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_1_",
+  "Statute ID": "STAT_65D_30_0046_1__i_1_",
+  "Rule": "65D-30.0046(1)(i)1.",
+  "Citation Description": "Safe storage, handling, and disposal of medications;",
+  "Response": "RES_65D_30_0046_1__i_1_",
+  "Comments": "COM_65D_30_0046_1__i_1_",
+  "Violation": "VIO_65D_30_0046_1__i_1_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_2_",
+  "Statute ID": "STAT_65D_30_0046_1__i_2_",
+  "Rule": "65D-30.0046(1)(i)2.",
+  "Citation Description": "Comprehensive understanding of and compliance with medication instructions on a prescription label, a healthcare practitioner’s order, and proper completion of medication observation record (MOR) form;",
+  "Response": "RES_65D_30_0046_1__i_2_",
+  "Comments": "COM_65D_30_0046_1__i_2_",
+  "Violation": "VIO_65D_30_0046_1__i_2_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_3_",
+  "Statute ID": "STAT_65D_30_0046_1__i_3_",
+  "Rule": "65D-30.0046(1)(i)3.",
+  "Citation Description": "The medical indications and purposes for commonly used medications, their common side effects, and symptoms of adverse reactions;",
+  "Response": "RES_65D_30_0046_1__i_3_",
+  "Comments": "COM_65D_30_0046_1__i_3_",
+  "Violation": "VIO_65D_30_0046_1__i_3_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_4_",
+  "Statute ID": "STAT_65D_30_0046_1__i_4_",
+  "Rule": "65D-30.0046(1)(i)4.",
+  "Citation Description": "The proper administration of oral, transdermal, ophthalmic, otic, rectal, inhaled or topical medications;",
+  "Response": "RES_65D_30_0046_1__i_4_",
+  "Comments": "COM_65D_30_0046_1__i_4_",
+  "Violation": "VIO_65D_30_0046_1__i_4_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_5_",
+  "Statute ID": "STAT_65D_30_0046_1__i_5_",
+  "Rule": "65D-30.0046(1)(i)5.",
+  "Citation Description": "Safety and sanitation practices while administering medication;",
+  "Response": "RES_65D_30_0046_1__i_5_",
+  "Comments": "COM_65D_30_0046_1__i_5_",
+  "Violation": "VIO_65D_30_0046_1__i_5_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_6_",
+  "Statute ID": "STAT_65D_30_0046_1__i_6_",
+  "Rule": "65D-30.0046(1)(i)6.",
+  "Citation Description": "Medication administration documentation and record keeping requirements;",
+  "Response": "RES_65D_30_0046_1__i_6_",
+  "Comments": "COM_65D_30_0046_1__i_6_",
+  "Violation": "VIO_65D_30_0046_1__i_6_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_7_",
+  "Statute ID": "STAT_65D_30_0046_1__i_7_",
+  "Rule": "65D-30.0046(1)(i)7.",
+  "Citation Description": "Medical errors and medical error reporting;",
+  "Response": "RES_65D_30_0046_1__i_7_",
+  "Comments": "COM_65D_30_0046_1__i_7_",
+  "Violation": "VIO_65D_30_0046_1__i_7_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_8_",
+  "Statute ID": "STAT_65D_30_0046_1__i_8_",
+  "Rule": "65D-30.0046(1)(i)8.",
+  "Citation Description": "Determinations of need for medication administration assistance and informed consent requirements;",
+  "Response": "RES_65D_30_0046_1__i_8_",
+  "Comments": "COM_65D_30_0046_1__i_8_",
+  "Violation": "VIO_65D_30_0046_1__i_8_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_9_",
+  "Statute ID": "STAT_65D_30_0046_1__i_9_",
+  "Rule": "65D-30.0046(1)(i)9.",
+  "Citation Description": "Procedural arrangements for individuals who require medication offsite; and",
+  "Response": "RES_65D_30_0046_1__i_9_",
+  "Comments": "COM_65D_30_0046_1__i_9_",
+  "Violation": "VIO_65D_30_0046_1__i_9_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_1__i_10_",
+  "Statute ID": "STAT_65D_30_0046_1__i_10_",
+  "Rule": "65D-30.0046(1)(i)10.",
+  "Citation Description": "Validation requirements.",
+  "Response": "RES_65D_30_0046_1__i_10_",
+  "Comments": "COM_65D_30_0046_1__i_10_",
+  "Violation": "VIO_65D_30_0046_1__i_10_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_4_hd",
+  "Statute ID": "STAT_65D_30_0046_4_hd",
+  "Rule": "65D-30.0046(4)",
+  "Citation Description": "Staff Qualifications."
+ },
+ {
+  "Container": "CON_65D_30_0046_4_",
+  "Statute ID": "STAT_65D_30_0046_4_",
+  "Rule": "65D-30.0046(4)",
+  "Citation Description": "Staff must provide services within the scope of their professional licensure certification; or training and competence in applicable clinical protocols.",
+  "Response": "RES_65D_30_0046_4_",
+  "Comments": "COM_65D_30_0046_4_",
+  "Violation": "VIO_65D_30_0046_4_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_4__a_",
+  "Statute ID": "STAT_65D_30_0046_4__a_",
+  "Rule": "65D-30.0046(4)(a)",
+  "Citation Description": "The scope of practice limitations listed in subsection (3) apply to the following unlicensed staff who must work directly under the supervision of a qualified professional:"
+ },
+ {
+  "Container": "CON_65D_30_0046_4__a_1_",
+  "Statute ID": "STAT_65D_30_0046_4__a_1_",
+  "Rule": "65D-30.0046(4)(a)1.",
+  "Citation Description": "Bachelor’s or master’s degree level practitioners. Practitioners must hold a degree from an accredited university or college with a major in counseling, social work, psychology, nursing, rehabilitation, special education, health education, or a related human services field;",
+  "Response": "RES_65D_30_0046_4__a_1_",
+  "Comments": "COM_65D_30_0046_4__a_1_",
+  "Violation": "VIO_65D_30_0046_4__a_1_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_4__a_2_",
+  "Statute ID": "STAT_65D_30_0046_4__a_2_",
+  "Rule": "65D-30.0046(4)(a)2.",
+  "Citation Description": "Registered marriage and family therapy, clinical social work, and mental health counseling interns;",
+  "Response": "RES_65D_30_0046_4__a_2_",
+  "Comments": "COM_65D_30_0046_4__a_2_",
+  "Violation": "VIO_65D_30_0046_4__a_2_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_4__a_3_",
+  "Statute ID": "STAT_65D_30_0046_4__a_3_",
+  "Rule": "65D-30.0046(4)(a)3.",
+  "Citation Description": "Certified master’s degree level addiction professionals who are certified by the Florida Certification Board;",
+  "Response": "RES_65D_30_0046_4__a_3_",
+  "Comments": "COM_65D_30_0046_4__a_3_",
+  "Violation": "VIO_65D_30_0046_4__a_3_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_4__a_4_",
+  "Statute ID": "STAT_65D_30_0046_4__a_4_",
+  "Rule": "65D-30.0046(4)(a)4.",
+  "Citation Description": "Certified addictions professionals who are certified by the Florida Certification Board;",
+  "Response": "RES_65D_30_0046_4__a_4_",
+  "Comments": "COM_65D_30_0046_4__a_4_",
+  "Violation": "VIO_65D_30_0046_4__a_4_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_4__a_5_",
+  "Statute ID": "STAT_65D_30_0046_4__a_5_",
+  "Rule": "65D-30.0046(4)(a)5.",
+  "Citation Description": "Certified addiction counselors who are certified by the Florida Certification Board.",
+  "Response": "RES_65D_30_0046_4__a_5_",
+  "Comments": "COM_65D_30_0046_4__a_5_",
+  "Violation": "VIO_65D_30_0046_4__a_5_",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_4__b_pt1",
+  "Statute ID": "STAT_65D_30_0046_4__b_pt1",
+  "Rule": "65D-30.0046(4)(b)",
+  "Citation Description": "Certified recovery peer specialists and specialist or certified recovery support specialists who are certified by the Florida Certification Board may provide all services listed in subsection (3) of this rule, except counseling listed in paragraph (3)(l), under the supervision of a qualified professional or a certified recovery peer specialist with a minimum of three (3) years of experience providing recovery support services to individuals with substance use disorders.",
+  "Response": "RES_65D_30_0046_4__b_pt1",
+  "Comments": "COM_65D_30_0046_4__b_pt1",
+  "Violation": "VIO_65D_30_0046_4__b_pt1",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_65D_30_0046_4__b_pt2",
+  "Statute ID": "STAT_65D_30_0046_4__b_pt2",
+  "Rule": "65D-30.0046(4)(b)",
+  "Citation Description": "Recovery support specialists and recovery peer specialists are allowed one year from the date of their employment to obtain certification through the Florida Certification Board.",
+  "Response": "RES_65D_30_0046_4__b_pt2",
+  "Comments": "COM_65D_30_0046_4__b_pt2",
+  "Violation": "VIO_65D_30_0046_4__b_pt2",
+  "Class of Violation": "Class I"
+ },
+ {
+  "Container": "CON_397_4073_2_hd",
+  "Statute ID": "STAT_397_4073_2_hd",
+  "Rule": "397.4073(2)",
+  "Citation Description": "Employment History Checks; Checks of References"
+ },
+ {
+  "Container": "CON_397_4073_2_pt1",
+  "Statute ID": "STAT_397_4073_2_pt1",
+  "Rule": "397.4073(2)",
+  "Citation Description": "The department shall assess:"
+ },
+ {
+  "Container": "CON_397_4073_2_pt2",
+  "Statute ID": "STAT_397_4073_2_pt2",
+  "Rule": "397.4073(2)",
+  "Citation Description": "employment history checks for all owners, directors, chief financial officers, and clinical supervisors",
+  "Response": "RES_397_4073_2_pt2",
+  "Comments": "COM_397_4073_2_pt2",
+  "Violation": "VIO_397_4073_2_pt2",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4073_2_pt3",
+  "Statute ID": "STAT_397_4073_2_pt3",
+  "Rule": "397.4073(2)",
+  "Citation Description": "checks of references for all owners, directors, chief financial officers, and clinical supervisors",
+  "Response": "RES_397_4073_2_pt3",
+  "Comments": "COM_397_4073_2_pt3",
+  "Violation": "VIO_397_4073_2_pt3",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4073_2_pt4",
+  "Statute ID": "STAT_397_4073_2_pt4",
+  "Rule": "397.4073(2)",
+  "Citation Description": "directors shall assess employment history checks and checks of references",
+  "Response": "RES_397_4073_2_pt4",
+  "Comments": "COM_397_4073_2_pt4",
+  "Violation": "VIO_397_4073_2_pt4",
+  "Class of Violation": "Class IV"
+ }
+]
