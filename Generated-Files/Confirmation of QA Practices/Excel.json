@@ -1,0 +1,188 @@
+[
+ {
+  "Container": "CON_65D_30_004_2_hd",
+  "Statute ID": "STAT_65D_30_004_2_hd",
+  "Rule": "65D-30.004(2); 397.4103",
+  "Citation Description": "Quality Improvement Programs"
+ },
+ {
+  "Container": "CON_65D_30_004_2_",
+  "Statute ID": "STAT_65D_30_004_2_",
+  "Rule": "65D-30.004(2); 397.4104",
+  "Citation Description": "Providers shall have a quality improvement program which complies with the requirements established in section 397.4103, F.S., and which ensures the use of a continuous quality improvement process.  Each service provider must maintain a quality improvement program to objectively and systematically monitor and evaluate the appropriateness and quality of care, to ensure that services are rendered consistent with prevailing professional standards, and to identify and resolve problems."
+ },
+ {
+  "Container": "CON_397_4103_2_",
+  "Statute ID": "STAT_397_4103_2_",
+  "Rule": "397.4103(2)",
+  "Citation Description": "For each service provider, a written plan must be developed with a copy made available upon request to the department which addresses the minimum guidelines for the provider’s quality improvement program, including, but not limited to:"
+ },
+ {
+  "Container": "CON_397_4103_2__a_",
+  "Statute ID": "STAT_397_4103_2__a_",
+  "Rule": "397.4103(2)(a)",
+  "Citation Description": "Individual care and services standards.",
+  "Response": "RES_397_4103_2__a_",
+  "Comments": "COM_397_4103_2__a_",
+  "Violation": "VIO_397_4103_2__a_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_2__b_",
+  "Statute ID": "STAT_397_4103_2__b_",
+  "Rule": "397.4103(2)(b)",
+  "Citation Description": "Individual records maintenance procedures.",
+  "Response": "RES_397_4103_2__b_",
+  "Comments": "COM_397_4103_2__b_",
+  "Violation": "VIO_397_4103_2__b_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_2__c_",
+  "Statute ID": "STAT_397_4103_2__c_",
+  "Rule": "397.4103(2)(c)",
+  "Citation Description": "Staff development policies and procedures.",
+  "Response": "RES_397_4103_2__c_",
+  "Comments": "COM_397_4103_2__c_",
+  "Violation": "VIO_397_4103_2__c_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_2__d_",
+  "Statute ID": "STAT_397_4103_2__d_",
+  "Rule": "397.4103(2)(d)",
+  "Citation Description": "Service-environment safety and maintenance standards.",
+  "Response": "RES_397_4103_2__d_",
+  "Comments": "COM_397_4103_2__d_",
+  "Violation": "VIO_397_4103_2__d_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_2__e_",
+  "Statute ID": "STAT_397_4103_2__e_",
+  "Rule": "397.4103(2)(e)",
+  "Citation Description": "Peer review and utilization management review procedures.",
+  "Response": "RES_397_4103_2__e_",
+  "Comments": "COM_397_4103_2__e_",
+  "Violation": "VIO_397_4103_2__e_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_2__f_",
+  "Statute ID": "STAT_397_4103_2__f_",
+  "Rule": "397.4103(2)(f)",
+  "Citation Description": "Incident reporting policies and procedures that include verification of corrective action, provision for reporting to the department within a time period prescribed by rule, documentation that incident reporting is the affirmative duty of all staff, and a provision that specifies that a person who files an incident report may not be subjected to any civil action by virtue of that incident report.",
+  "Response": "RES_397_4103_2__f_",
+  "Comments": "COM_397_4103_2__f_",
+  "Violation": "VIO_397_4103_2__f_",
+  "Class of Violation": "Class III"
+ },
+ {
+  "Container": "CON_397_4103_3_",
+  "Statute ID": "STAT_397_4103_3_",
+  "Rule": "397.4103(3)",
+  "Citation Description": "The quality improvement program is the responsibility of the director and is subject to review and approval by the governing board of the service provider.",
+  "Response": "RES_397_4103_3_",
+  "Comments": "COM_397_4103_3_",
+  "Violation": "VIO_397_4103_3_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_4_",
+  "Statute ID": "STAT_397_4103_4_",
+  "Rule": "397.4103(4)",
+  "Citation Description": "Each director shall designate a person who is an employee of or under contract with the service provider as the provider’s quality improvement manager.",
+  "Response": "RES_397_4103_4_",
+  "Comments": "COM_397_4103_4_",
+  "Violation": "VIO_397_4103_4_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_5_",
+  "Statute ID": "STAT_397_4103_5_",
+  "Rule": "397.4103(5)",
+  "Citation Description": "The department may access all service provider records necessary to determine compliance with this section. Records relating solely to actions taken in carrying out this section and records obtained by the department to determine a provider’s compliance with this section are confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution. Such records are not admissible in any civil or administrative action except in disciplinary proceedings by the Department of Health or the appropriate regulatory board, and are not part of the record of investigation and prosecution in disciplinary proceedings made available to the public by the Department of Health or the appropriate regulatory board. Meetings or portions of meetings of quality improvement program committees that relate solely to actions taken pursuant to this section are exempt from s. 286.011."
+ },
+ {
+  "Container": "CON_397_4103_6_",
+  "Statute ID": "STAT_397_4103_6_",
+  "Rule": "397.4103(6)",
+  "Citation Description": "The quality improvement program must also:"
+ },
+ {
+  "Container": "CON_397_4103_6__a_",
+  "Statute ID": "STAT_397_4103_6__a_",
+  "Rule": "397.4103(6)(a)",
+  "Citation Description": "Provide a framework for evaluating outcomes, including:"
+ },
+ {
+  "Container": "CON_397_4103_6__a_1_",
+  "Statute ID": "STAT_397_4103_6__a_1_",
+  "Rule": "397.4103(6)(a)1.",
+  "Citation Description": "Output measures, such as capacities, technologies, and infrastructure, that make up the system of care.",
+  "Response": "RES_397_4103_6__a_1_",
+  "Comments": "COM_397_4103_6__a_1_",
+  "Violation": "VIO_397_4103_6__a_1_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_6__a_2_",
+  "Statute ID": "STAT_397_4103_6__a_2_",
+  "Rule": "397.4103(6)(a)2.",
+  "Citation Description": "Process measures, such as administrative and clinical components of treatment.",
+  "Response": "RES_397_4103_6__a_2_",
+  "Comments": "COM_397_4103_6__a_2_",
+  "Violation": "VIO_397_4103_6__a_2_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_6__a_3_",
+  "Statute ID": "STAT_397_4103_6__a_3_",
+  "Rule": "397.4103(6)(a)3.",
+  "Citation Description": "Outcome measures pertaining to the outcomes of services;",
+  "Response": "RES_397_4103_6__a_3_",
+  "Comments": "COM_397_4103_6__a_3_",
+  "Violation": "VIO_397_4103_6__a_3_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_6__b_",
+  "Statute ID": "STAT_397_4103_6__b_",
+  "Rule": "397.4103(6)(b)",
+  "Citation Description": "Provide for a system of analyzing those factors which have an effect on performance at the local level;",
+  "Response": "RES_397_4103_6__b_",
+  "Comments": "COM_397_4103_6__b_",
+  "Violation": "VIO_397_4103_6__b_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_6__c_",
+  "Statute ID": "STAT_397_4103_6__c_",
+  "Rule": "397.4103(6)(c)",
+  "Citation Description": "Provide for a system of reporting the results of quality improvement reviews; and",
+  "Response": "RES_397_4103_6__c_",
+  "Comments": "COM_397_4103_6__c_",
+  "Violation": "VIO_397_4103_6__c_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_6__d_",
+  "Statute ID": "STAT_397_4103_6__d_",
+  "Rule": "397.4103(6)(d)",
+  "Citation Description": "Incorporate best practice models for use in improving performance in those areas which are deficient.",
+  "Response": "RES_397_4103_6__d_",
+  "Comments": "COM_397_4103_6__d_",
+  "Violation": "VIO_397_4103_6__d_",
+  "Class of Violation": "Class IV"
+ },
+ {
+  "Container": "CON_397_4103_7_",
+  "Statute ID": "STAT_397_4103_7_",
+  "Rule": "397.4103(7)",
+  "Citation Description": "Contingent upon specific appropriation, a quality improvement coordinator position shall be established within each substate entity to oversee the implementation and operation of the quality improvement program.",
+  "Response": "RES_397_4103_7_",
+  "Comments": "COM_397_4103_7_",
+  "Violation": "VIO_397_4103_7_",
+  "Class of Violation": "Class IV"
+ }
+]
