@@ -2122,15 +2122,6 @@
   "Citation Description": "Confidentiality."
  },
  {
-  "Container": "CON_65D_30_004_18_pt1",
-  "Statute ID": "STAT_65D_30_004_18_pt1",
-  "Citation Description": "Providers shall comply with Title 42, Code of Federal Regulations, Part 2, titled “Confidentiality of Alcohol and Drug Abuse Patient Records,” and with sections 397.501(7) and 397.752, F.S., regarding confidential individual information.",
-  "Response": "RES_65D_30_004_18_pt1",
-  "Comments": "COM_65D_30_004_18_pt1",
-  "Violation": "VIO_65D_30_004_18_pt1",
-  "Class of Violation": "Class IV"
- },
- {
   "Container": "CON_397_4873",
   "Statute ID": "STAT_397_4873",
   "Rule": "397.4873",
