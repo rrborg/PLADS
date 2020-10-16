@@ -1,6 +1,4 @@
-
-
-    <BaseField xsi:type='FieldContainer'>
+<BaseField xsi:type='FieldContainer'>
         <BackgroundColor>0</BackgroundColor>
         <BackgroundColorString>#00FFFFFF</BackgroundColorString>
         <ConnectionString/>
