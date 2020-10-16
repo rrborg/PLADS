@@ -3392,15 +3392,6 @@
   "Class of Violation": "Class III"
  },
  {
-  "Container": "CON_",
-  "Statute ID": "STAT_",
-  "Citation Description": "Describes strategies for these groups or individuals to access needed services.",
-  "Response": "RES_",
-  "Comments": "COM_",
-  "Violation": "VIO_",
-  "Class of Violation": "Class III"
- },
- {
   "Container": "CON_65D_30_012_1__b_",
   "Statute ID": "STAT_65D_30_012_1__b_",
   "Rule": "65D-30.012(1)(b)",
